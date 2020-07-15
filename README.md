@@ -1,6 +1,6 @@
 # Smartschool Dupe
 
-A new Flutter project.
+[Flutter Mobile App] Recreation of a small part of the Smartschool mobile app
 
 ## Install
 
